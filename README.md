@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bishwagit_das" target="blank"><img src="https://img.shields.io/twitter/follow/bishwagit_das?logo=twitter&style=for-the-badge" alt="bishwagit_das" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel,.NET**
+- 🌱 I’m currently learning **Laravel,.NET**,React JS**
 
 - 👯 I’m looking to collaborate on [Hospital_Management_System](https://github.com/rahmantouhid-cse/Hospital_Management_System)
 
